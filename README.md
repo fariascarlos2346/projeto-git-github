@@ -1,2 +1,4 @@
-# projeto-site22
- Projeto de um site criado durante o curso de Git e GitHub
+<h1>Aprendendo Git e Github</h1>
+<br>
+<br>
+<h2>Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a> </h2>
